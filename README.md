@@ -12,7 +12,6 @@ A lightweight, static landing page clone of the Amazon Prime Video interface. Th
 * **HTML5:** Semantic structure for better accessibility.
 * **CSS3:** Custom styling without external libraries or frameworks.
 * **Typography:** Integrated 'Inter' and sans-serif fallbacks to mimic the 'Amazon Ember' look.
-* **SVG Icons:** Custom-coded SVGs for the "Subscriptions" grid and divider lines.
 
 ## 🧠 What I Learned
 Building this was a "hell of a ride" in terms of debugging! 😅 I gained deep insights into:
