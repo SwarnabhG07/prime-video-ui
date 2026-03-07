@@ -1,5 +1,12 @@
 # Amazon Prime Video UI Clone 🎬
 
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  
+</p>
+
 A lightweight, static landing page clone of the Amazon Prime Video interface. This project was built to practice modern CSS layouts, focusing on Flexbox and UI transitions.
 
 ## ✨ Key Features
